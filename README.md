@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Dawid
 - 👀 I’m interested in Front End (React)
 - 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me dawid.micelski@gmail.com
 
 <!---
 Dawidm213/Dawidm213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
