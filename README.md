@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dawidm213
-- 👀 I’m interested in Python and Front End
-- 🌱 I’m currently learning Python and Django
+- 👋 Hi, I’m Dawid
+- 👀 I’m interested in Front End (React)
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
